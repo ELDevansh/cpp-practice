@@ -3,7 +3,7 @@
 using namespace std;
 
 #define fr(i,a,b) for(int i=a;i<b;i++)
-typedef ll long long;
+#define int long long
 
 void solve(){
     int n;
